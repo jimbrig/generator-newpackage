@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jimbrig/generator-newpackage](https://github.com/jimbrig/generator-newpackage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|12/07/23 <br/>Report generated|
+|17<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -116,7 +116,18 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (5)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[chalk](https://www.npmjs.com/chalk)|v0.5.0|02/28/15|Kirill Sevastyanenko |MIT|N/A|
+|[fs](https://www.npmjs.com/fs)|v0.0.2|02/28/15|Kirill Sevastyanenko |MIT|N/A|
+|[iniparser](https://www.npmjs.com/iniparser)|v1.0.5|03/03/15|Kirill Sevastyanenko |MIT|N/A|
+|[yeoman-generator](https://www.npmjs.com/yeoman-generator)|v0.18.0|03/03/15|Kirill Sevastyanenko |BSD-2-Clause|N/A|
+|[yosay](https://www.npmjs.com/yosay)|v0.3.0|02/28/15|Kirill Sevastyanenko |BSD-2-Clause|N/A|
+
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/105004/default_a16028785587c9c482ce21483b5e660123a3d270.png'/> CRAN (4)
 
@@ -126,16 +137,6 @@ Full tech stack [here](/techstack.md)
 |[microbenchmark](https://cran.r-project.org/microbenchmark)|N/A|02/28/15|Kirill Sevastyanenko |N/A|N/A|
 |[stringr](https://cran.r-project.org/stringr)|N/A|02/28/15|Kirill Sevastyanenko |N/A|N/A|
 |[testthat](https://cran.r-project.org/testthat)|N/A|02/28/15|Kirill Sevastyanenko |N/A|N/A|
-
-
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (4)
-
-|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
-|:------|:------|:------|:------|:------|:------|
-|[fs](https://www.npmjs.com/fs)|v0.0.2|02/28/15|Kirill Sevastyanenko |MIT|N/A|
-|[iniparser](https://www.npmjs.com/iniparser)|v1.0.5|03/03/15|Kirill Sevastyanenko |MIT|N/A|
-|[yeoman-generator](https://www.npmjs.com/yeoman-generator)|v0.18.0|03/03/15|Kirill Sevastyanenko |BSD-2-Clause|N/A|
-|[yosay](https://www.npmjs.com/yosay)|v0.3.0|02/28/15|Kirill Sevastyanenko |BSD-2-Clause|N/A|
 
 <br/>
 <div align='center'>
